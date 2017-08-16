@@ -10,9 +10,9 @@ Pod::Spec.new do |s|
                   just for private pod spec demo
                    DESC
 
-  s.homepage     = "http://EXAMPLE/SPPrivateA"
+  s.homepage     = "https://github.com/quqianqian/SPPrivateA"
   s.license      = "MIT (example)"
-  s.author             = { "wuqianqian" => "2844057518@qq.com" }
+  s.author       = { "wuqianqian" => "2844057518@qq.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
 
 
-  s.source       = { :git => "http://EXAMPLE/SPPrivateA.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/quqianqian/SPPrivateA.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
