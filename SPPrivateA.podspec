@@ -7,11 +7,11 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "just for private pod spec demo of SPPrivateA."
   s.description  = <<-DESC
-                  just for private pod spec demo
+                        just for private pod spec demo
                    DESC
 
   s.homepage     = "https://github.com/quqianqian/SPPrivateA"
-  s.license      = "MIT (example)"
+  s.license      = "MIT"
   s.author       = { "wuqianqian" => "2844057518@qq.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
